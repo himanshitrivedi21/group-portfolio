@@ -5,7 +5,7 @@ Includes a **group description**, **search** to filter members by name/skill, an
 
 ## Members
 - Himanshi Trivedi
-- Alfiya Shaikh
+- Alfiya Siddiqui
 - Tanvi Toraskar
 - Naitika Gharat
 - Fazil Shaikh
